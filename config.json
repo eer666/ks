@@ -1,16 +1,5 @@
 {
-    "Mysql_Host": "47.241.11.151",
-    "Mysql_Port": 3306,
-    "Mysql_User": "v2sockes",
-    "Mysql_Password": "luo@@@66",
-    "Mysql_Db": "v2sockes",
-    "Mysql_TLS": "false",
-    "Mysql_MaxOpenConns": 100,
-    "Mysql_MaxIdleConns": 10,
-    "V2rayClientAddr": "127.0.0.1:8301",
-    "V2rayTag": "proxy",
-    "Email": "@test.com",
-    "AlterID": 64,
+    "
     "Level": 1,
     "CheckRate": 64
 }
